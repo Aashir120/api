@@ -1,0 +1,19 @@
+{
+    "devices": [
+      {
+        "name": "Bulb",
+        "desc": "On",
+        "id": 1
+      },
+      {
+        "name": "Fridge ",
+        "desc": "Off",
+        "id": 2
+      },
+      {
+        "name": "Humidity ",
+        "desc": "45",
+        "id": 5
+      }
+    ]
+  }
